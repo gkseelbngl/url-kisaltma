@@ -1,0 +1,13 @@
+{
+    "name": "mof/deneme",
+    "type": "project",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Möf"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    }
+}
